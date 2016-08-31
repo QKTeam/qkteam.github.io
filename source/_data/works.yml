@@ -1,0 +1,13 @@
+- name: CDOJ for iOS
+  description: UESTCACM在线评测平台官方客户端
+  preview: https://itunes.apple.com/app/cdoj/id1147018708
+  link: https://github.com/UESTC-ACM/cdoj-ios
+  img: https://raw.githubusercontent.com/UESTC-ACM/CDOJ-IOS/master/doc/AppIcon.png
+  tags: [CDOJ, UESTCACM, iOS] 
+
+- name: Codeditor for iOS
+  description: 您的掌上代码编辑器
+  preview: https://itunes.apple.com/app/codeditor/id1147022827
+  link: https://github.com/QKTeam/Codeditor-IOS
+  img: https://raw.githubusercontent.com/QKTeam/Codeditor-IOS/master/doc/AppIcon.png
+  tags: [代码, IDE]
